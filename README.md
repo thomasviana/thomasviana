@@ -16,7 +16,7 @@
 
 ------------
 
-> I love how tecnologies are used to create a different solutions to the world. That makes me a happier developer.
+> I love how technologies are used to create a different solutions to the world. That makes me a happier developer.
 
 ------------
 
