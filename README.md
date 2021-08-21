@@ -9,7 +9,7 @@
 
 - Hi, I’m @thomasviana
 - I'm interested in learning new things!
-- I'm looking to collaborate on related projects
+- I'm looking to collaborate on related projects.
 - LinkedIn: [thomas-viana16](https://www.linkedin.com/in/thomas-viana-646230116/) 
 - Instagram:  [thomas_viana](https://www.instagram.com/thomas_viana/)
 - email: thomasviana16@gmail.com
