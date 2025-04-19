@@ -3,7 +3,7 @@
 
 - 📱 <b>Mobile Developer</b> with a focus on <b>Flutter & Dart</b>.
 - 🚀 Working at a <b>Silicon Valley startup</b> building <a href="https://www.getcarbon.app/">CarbonVoice</a>, a <b>communication app for people on-the-go</b>.
-- 🛠️ Strong in <b>state management</b> (Provider, Riverpod, Bloc), <b>custom UI</b>, and <b>architecture patterns</b> (Clean Architecture, MVVM).
+- 🛠️ Strong in <b>state management</b> (Provider, Riverpod, Bloc), <b>custom UI</b>, and <b>architecture patterns</b>.
 - 🔄 <b>CI/CD enthusiast</b>: automating builds, tests, and deployments with <b>CodeMagic</b> and <b>GitHub Actions</b>.
 - 📈 Passionate about writing <b>maintainable</b>, <b>testable</b>, and <b>scalable codebases</b>.
 - 📚 <b>Lifelong learner</b> — recently diving into <b>AI integrating workflows</b>.
